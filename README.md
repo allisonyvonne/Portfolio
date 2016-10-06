@@ -1,9 +1,7 @@
 ### Portfolio
 ***
 
-Write introduction
-
-Check out my LinkedIn and my blog to learn more about me.
+Check out my <a href="allisonyvonne.com">website</a> 
 
 #### HTML & CSS
 * [HTML & CSS  Examples](./HTML-CSS)
