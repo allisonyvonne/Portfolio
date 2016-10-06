@@ -1,7 +1,7 @@
 ### Portfolio
 ***
 
-Check out my <a href="www.allisonyvonne.com">website</a> 
+Check out my [website] (www.allisonyvonne.com)
 
 #### HTML & CSS
 * [HTML & CSS  Examples](./HTML-CSS)
