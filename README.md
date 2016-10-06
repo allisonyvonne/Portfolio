@@ -1,7 +1,7 @@
 ### Portfolio
 ***
 
-Check out my [website] (www.allisonyvonne.com)
+Check out my [website] (http://allisonyvonne.com/)
 
 #### HTML & CSS
 * [HTML & CSS  Examples](./HTML-CSS)
